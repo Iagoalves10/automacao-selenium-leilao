@@ -1,0 +1,21 @@
+# Pastas de compilação do Maven
+target/
+*.class
+
+# Configurações do IntelliJ (não devem ir pro git público)
+.idea/
+*.iml
+*.iws
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Drivers do Selenium (caso tenha baixado manualmente)
+chromedriver.exe
+geckodriver.exe
+drivers/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
